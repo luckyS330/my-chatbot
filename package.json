@@ -8,7 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "next": "latest",
+    "node-fetch": "^3.3.2",
     "openai": "^4.0.0",
     "react": "latest",
     "react-dom": "latest",
